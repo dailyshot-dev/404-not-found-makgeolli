@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 
-[![image](https://img.shields.io/badge/%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%83%B7-white?style=flat&color=FF9500)](https://dailyshot.co)
+[![image](https://img.shields.io/badge/we--are-dailyshot-white?style=for-the-badge&color=FF9500)](https://dailyshot.co)
+![image](https://img.shields.io/github/issues-pr-closed/c-makgeolli/404-not-found-makgeolli?style=for-the-badge&color=FF9500)
+![image](https://img.shields.io/badge/version-v1.0.0-white?style=for-the-badge&color=FF9500)
+[![image](https://img.shields.io/badge/license-MAKGEOLLI--WARE-white?style=for-the-badge&color=FF9500)]((https://github.com/c-makgeolli/404-not-found-makgeolli/blob/main/LICENSE))
 
 <br />
 <div align="center">
