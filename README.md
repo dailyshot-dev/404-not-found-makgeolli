@@ -34,3 +34,5 @@
 
 ## 리뷰 쓰는 법
 
+## 라이센스
+Distributed under the MAKGEOLLI-WARE LICENSE. See [`LICENSE`](https://github.com/c-makgeolli/404-not-found-makgeolli/blob/main/LICENSE) for more information.
