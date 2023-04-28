@@ -13,19 +13,25 @@
   <p align="center">
     Enjoy 404 NOT FOUND!
     <br />
-    <a href="#write-review">Write Review</a>
+    <br />
+    <a href="#리뷰-쓰는-법">리뷰 쓰는 법</a>
     ·
-    <a href="#getting-started">Getting Started</a>
+    <a href="#리뷰">리뷰</a>
     ·
-    <a href="#made-of">Made Of</a>
+    <a href="#재료">재료</a>
   </p>
 </div>
 
 ## About The Project
 
-## Made Of
+## 재료
 
-## Getting Started
+## 리뷰
+<!-- 리뷰 형식 -->
+<!-- - @<GitHub 유저네임> : <별점(5점 만점)> / <리뷰 내용> -->
 
-## Write Review
+<br/>
+<p align="right">(<a href="#write-review">리뷰는 어떻게 쓰나요?</a>)</p>
+
+## 리뷰 쓰는 법
 
