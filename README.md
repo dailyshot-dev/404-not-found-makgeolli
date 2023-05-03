@@ -25,11 +25,11 @@
   </p>
 </div>
 
-## About The Project
+## 프로젝트 소개
 
-## 재료
 
 ## 리뷰
+
 <p align="left">(<a href="#리뷰-쓰는-법">리뷰는 어떻게 쓰나요?</a>)</p>
 <!-- 리뷰 형식 -->
 <!-- - [@<GitHub 유저 이름>](https://github.com/<GitHub 유저 이름>) : <별점(5점 만점)> / <리뷰 내용> -->
@@ -37,6 +37,8 @@
 - [@gmlwo530](https://github.com/gmlwo530) : 5.0 / 깔끔하고 상큼한게 디버깅 할 때 한 잔하기 딱 좋은 술이예요 😆
 
 ## 리뷰 쓰는 법
+
+(데스크탑에서도 가능합니다)
 
 1. README.md 파일을 클릭합니다.
 
@@ -58,5 +60,8 @@
 
 <img src="images/review-guide-5.jpg" alt="review-guide-5" width="270" height="600">
 
+- 예시 리뷰 PR: https://github.com/c-makgeolli/404-not-found-makgeolli/pull/1
+
 ## 라이센스
+
 Distributed under the MAKGEOLLI-WARE LICENSE. See [`LICENSE`](https://github.com/c-makgeolli/404-not-found-makgeolli/blob/main/LICENSE) for more information.
