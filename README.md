@@ -4,11 +4,12 @@
 ![image](https://img.shields.io/github/issues-pr-closed/c-makgeolli/404-not-found-makgeolli?style=for-the-badge&color=FF9500)
 ![image](https://img.shields.io/badge/version-v1.0.0-white?style=for-the-badge&color=FF9500)
 [![image](https://img.shields.io/badge/license-MAKGEOLLI--WARE-white?style=for-the-badge&color=FF9500)]((https://github.com/c-makgeolli/404-not-found-makgeolli/blob/main/LICENSE))
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc-makgeolli%2F404-not-found-makgeolli&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br />
 <div align="center">
   <a href="https://dailyshot.co" target="_blank">
-    <img src="images/logo.png" alt="Logo" width="496" height="228">
+    <img src="images/logo.png" alt="Logo" width="496" height="228" />
   </a>
 
   <h3 align="center">404 NOT FOUND</h3>
