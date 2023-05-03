@@ -38,5 +38,25 @@
 
 ## 리뷰 쓰는 법
 
+1. README.md 파일을 클릭합니다.
+
+<img src="images/review-guide-1.jpg" alt="review-guide-1" width="270" height="600">
+
+2. 오른쪽의 `•••` 버튼을 클릭 후 `Edit in place`를 클릭합니다.
+
+<img src="images/review-guide-2.jpg" alt="review-guide-2" width="270" height="600">
+
+3. 리뷰 섹션에 리뷰 형식에 맞게 리뷰를 작성합니다. 프로필 링크 연결은 자유입니다!
+
+<img src="images/review-guide-3.jpg" alt="review-guide-3" width="270" height="600">
+
+4. 리뷰 작성 후 commit change 버튼을 클릭 합니다. 커밋 메세지 형식은 자유입니다!
+
+<img src="images/review-guide-4.jpg" alt="review-guide-4" width="270" height="600">
+
+5. 마지막으로 `Create pull request` 해주시면 완료입니다. 머지는 빠르게 하도록 하겠습니다.
+
+<img src="images/review-guide-5.jpg" alt="review-guide-5" width="270" height="600">
+
 ## 라이센스
 Distributed under the MAKGEOLLI-WARE LICENSE. See [`LICENSE`](https://github.com/c-makgeolli/404-not-found-makgeolli/blob/main/LICENSE) for more information.
