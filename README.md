@@ -9,9 +9,11 @@
 <br />
 <div align="center">
   <a href="https://dailyshot.co" target="_blank">
-    <img src="images/logo.png" alt="Logo" width="496" height="228" />
+    <img src="images/404-not-found-logo.png" alt="Logo" width="447" height="201" />
   </a>
 
+  <br/>
+  
   <h3 align="center">404 NOT FOUND</h3>
 
   <p align="center">
